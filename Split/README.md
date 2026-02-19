@@ -1,5 +1,5 @@
 # 스플릿 (Split)
-```
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
