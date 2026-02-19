@@ -1,5 +1,4 @@
 # 스플릿 (Split)
----
 ```
 #include <bits/stdc++.h>
 using namespace std;
